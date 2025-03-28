@@ -208,7 +208,7 @@ const projects = [
       },
     ],
     category: ["web", "all"],
-    isLive: false,
+    isLive: true,
     liveLink: "https://fishfish-ten.vercel.app/",
     image: chatsonic,
     source_code_link: "https://github.com/ALMOSTGOD1999/fishfish2",
