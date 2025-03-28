@@ -22,7 +22,7 @@ const Experience = () => {
               title={data.title}
               skills={data.skills}
               desc={data.points}
-              certiImg={data.certificate}
+              // certiImg={data.certificate}
               company={data.company_name}
               date={data.date}
               companyIcon={data.icon}
