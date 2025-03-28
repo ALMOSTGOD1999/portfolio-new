@@ -12,7 +12,7 @@ const MyBio = {
   description:
     "Though I have came from a diffrent background (Civil Engineering), I have cultivated my expertise as a self-taught Full Stack Developer.I love crafting websites that are both aesthetically pleasing and user-friendly, with flawless performance.",
   resume:
-    "https://drive.google.com/file/d/1Cx99kuZEK-FRcjvGSq063Cm8TkmnwsH8/view",
+    "https://drive.google.com/file/d/1kPklf0JmjP2oc0ELokbGswjnsCGNX6dA/view?usp=sharing",
   linkdin: "https://www.linkedin.com/in/rahul-mukherjee-b33553170/",
   github: "https://github.com/ALMOSTGOD1999",
   email: "rahulmukhopadhyay118@gmail.com",
