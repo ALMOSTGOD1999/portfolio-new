@@ -234,7 +234,7 @@ const projects = [
     ],
     category: ["web", "all"],
     isLive: true,
-    liveLink: "https://synops.netlify.app/",
+    liveLink: "https://ai-saaas-app.vercel.app/",
     image: summerize,
     source_code_link: "https://github.com/ALMOSTGOD1999/ai-saaas-app",
   },
