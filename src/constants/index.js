@@ -15,6 +15,7 @@ const MyBio = {
     "https://drive.google.com/file/d/1kPklf0JmjP2oc0ELokbGswjnsCGNX6dA/view?usp=sharing",
   linkdin: "https://www.linkedin.com/in/rahul-mukherjee-b33553170/",
   github: "https://github.com/ALMOSTGOD1999",
+
   email: "rahulmukhopadhyay118@gmail.com",
 };
 
